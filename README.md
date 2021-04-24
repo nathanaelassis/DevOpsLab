@@ -1,2 +1,2 @@
-# devopslab
+# Lab DevOps e Cloud
 Aplicação em  Python/Flask com teste usando Unittest integrado ao Travis-CI fazendo deploy no Heroku.
